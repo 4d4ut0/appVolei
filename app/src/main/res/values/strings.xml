@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppVolei</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="tempo_button">Tempo</string>
+    <string name="partida_button">Partida</string>
+    <string name="set_button">Set</string>
+
+    <string name="placar_tab">Placar</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="equipe">Equipe</string>
+</resources>
